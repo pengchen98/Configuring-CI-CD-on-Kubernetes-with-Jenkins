@@ -1,3 +1,9 @@
+﻿https://www.vultr.com/docs/how-to-install-sonarqube-on-ubuntu-16-04
+
+https://aspiresoftware.in/blog/intergrating-sonarqube-and-jenkins/
+
+
+
 # Configuring CI/CD on Kubernetes with Jenkins
 
 ### Introduction
