@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: podinfo
-        image: peng/testdocker:{{BUILD_NUMBER}}
+        image: pengche98/testdocker:{{BUILD_NUMBER}}
         imagePullPolicy: Always
         ports:
         - containerPort: 4444
